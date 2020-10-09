@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PetHeart</string>
+    <string name="memory_title_hint">Enter a title for the memory.</string>
+    <string name="memory_title_label">Title</string>
+    <string name="memory_details_label">Details</string>
+    <string name="memory_favorite_label">Favorite</string>
+    <string name="new_memory">New Memory</string>
+    <string name="share_memory_label">Share Memory</string>
+    <string name="memory_report">Remember %1$s!
+      It happened on %2$s. %3$s
+    </string>
+    <string name="memory_favorite">The Memory is favorited</string>
+    <string name="memory_notFavorite">The memory is not favorited</string>
+    <string name="memory_subject">PetHeart Memory</string>
+    <string name="send_memory">Send Memory via</string>
+    <string name="delete_memory">Delete Memory</string>
+</resources>

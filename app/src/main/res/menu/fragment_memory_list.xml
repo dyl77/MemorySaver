@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/new_memory"
+        android:icon="@drawable/add"
+        android:title="@string/new_memory"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/filter_favorite"
+        android:icon="@drawable/hearticon"
+        android:title="Favorite Filter"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/filter_off"
+        android:icon="@drawable/halfheart"
+        android:title="No Filter"
+        app:showAsAction="ifRoom" />
+
+</menu>
